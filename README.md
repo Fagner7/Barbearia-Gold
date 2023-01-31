@@ -2,10 +2,6 @@
      <img src="https://ik.imagekit.io/o31ub0axc/logo-1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1675150716727">
  </h1>
 
- <h1>
-     <img src="C:\Users\fagne\OneDrive\Área de Trabalho\Projeto 1\imagens\h1.jpg">
- </h1>
-
 
  ## 📝Sobre
 
