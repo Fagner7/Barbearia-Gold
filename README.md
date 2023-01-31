@@ -3,7 +3,7 @@
  </h1>
 
  <h1>
-     <img src="barbearia.gif">
+     <img src="C:\Users\fagne\OneDrive\Área de Trabalho\Projeto 1\imagens\h1.jpg">
  </h1>
 
 
